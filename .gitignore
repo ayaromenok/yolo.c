@@ -1,3 +1,7 @@
+# binaries
+train_yolo
+test_yolo
+
 # Prerequisites
 *.d
 
